@@ -1,0 +1,302 @@
+[
+  {
+    "title": "E-commerce Analytics + Looker Studio Expert (GA4 / CRO Specialist)",
+    "description": "Are you an expert in ecommerce? Where people go to a site, find a product, put it in the cart, and purchase?  Help audit GA4 data, build Looker dashboards and pinpoint drop‑offs so we can fix revenue leaks.",
+    "requirements": "Ga4, R, looker",
+    "responsibilities": "Audit, Build"
+  },
+  {
+    "title": "Trainee Product Manager needed to work on a portfolio of sponsorship clients",
+    "description": "Own our sponsorship‑tagging workflow, partner with AI tools, improve processes, and keep a remote team updated while scaling operations.",
+    "requirements": "R",
+    "responsibilities": "Update"
+  },
+  {
+    "title": "Research Paper Writer Needed for Predictive Modeling in Payment Systems",
+    "description": "Draft an academic paper detailing a predictive model for resource orchestration and fraud detection in payment systems.",
+    "requirements": "R",
+    "responsibilities": "Draft"
+  },
+  {
+    "title": "OTDR Test File Combination for Bidirectional Reporting",
+    "description": "Combine Optical Time Domain Reflectometer (OTDR) test files into a single bidirectional report and automate the workflow.",
+    "requirements": "R",
+    "responsibilities": "Combine"
+  },
+  {
+    "title": "Data‑Driven Intervention Development Specialist",
+    "description": "Use in‑depth assessment data to design an intervention solution, visualize findings, and recommend measurable actions.",
+    "requirements": "R",
+    "responsibilities": "Assess, Design, Recommend"
+  },
+  {
+    "title": "Predictive Model Expert Needed for LTV Integration with Facebook",
+    "description": "Build a Pecan.ai model to predict customer lifetime value and push the result back into Facebook Ads for ROI optimization.",
+    "requirements": "R",
+    "responsibilities": "Build"
+  },
+  {
+    "title": "Analyzing qualitative data for dissertation",
+    "description": "Provide MAXQDA guidance and thematic analysis for 12 interview transcripts used in a doctoral dissertation.",
+    "requirements": "R",
+    "responsibilities": "Provide"
+  },
+  {
+    "title": "Senior R Shiny Developer – Permanent Position",
+    "description": "Lead development of interactive R Shiny dashboards, mentor juniors, and maintain clean, production‑ready code.",
+    "requirements": "R, shiny",
+    "responsibilities": "Develop, Lead, Maintain"
+  },
+  {
+    "title": "Creative Expert to Design a Professional Data Analyst Portfolio",
+    "description": "Design and develop a visually stunning, responsive portfolio to showcase projects and case studies.",
+    "requirements": "R",
+    "responsibilities": "Design, Develop"
+  },
+  {
+    "title": "UTM & Google Analytics Expert",
+    "description": "Audit GA4 setup, generate meaningful UTM schemes, and configure Tag Manager to capture reliable multi‑channel attribution.",
+    "requirements": "Ga4, R, Utm, tag manager",
+    "responsibilities": "Audit, Configure, Generate"
+  },
+  {
+    "title": "Senior Data Scientist – tabular data, clustering & text analytics",
+    "description": "Work on a large analytics codebase, refactor clustering pipelines, and add advanced NLP components.",
+    "requirements": "Nlp, R, analytics",
+    "responsibilities": "Refactor"
+  },
+  {
+    "title": "AI Industrial Consultant – Predictive Maintenance & Digital Twins",
+    "description": "Advise clients on deploying predictive‑maintenance models and building digital‑twin simulations at scale.",
+    "requirements": "R",
+    "responsibilities": "Advise, Build, Deploy"
+  },
+  {
+    "title": "Senior Chemistry Advisor for AI Synthesis Pathway Reconstruction",
+    "description": "Act as chemistry SME, guiding ML team building models to predict chemical synthesis routes.",
+    "requirements": "R",
+    "responsibilities": "Build"
+  },
+  {
+    "title": "Human‑Centric vs Synthetic Data for LLMs – 1‑Day Expert Deep Dive",
+    "description": "Lead a workshop comparing outcomes when training LLMs on human and synthetic datasets.",
+    "requirements": "Llm, R",
+    "responsibilities": "Lead, Train"
+  },
+  {
+    "title": "AI Model Development & Data Labeling Expert",
+    "description": "Design model architecture and oversee large‑scale data‑labeling efforts for a computer‑vision pipeline.",
+    "requirements": "R",
+    "responsibilities": "Design"
+  },
+  {
+    "title": "Data Scientist / Researcher – Parse LAZ to 3‑D Point Cloud (Python)",
+    "description": "Write a Python utility to convert LAZ/LAS LiDAR files into xyz point‑cloud arrays ready for ML processing.",
+    "requirements": "Laz, R, lidar, python",
+    "responsibilities": "Convert, Write"
+  },
+  {
+    "title": "Create ‘Graph Continuous‑Thought Machine’ Prototype",
+    "description": "Implement the ‘continuous thought machine’ graph described in a recent research paper using Python.",
+    "requirements": "R, python",
+    "responsibilities": "Implement"
+  },
+  {
+    "title": "Elasticsearch Link‑Analysis / Entity Resolution on 50 B records",
+    "description": "Design scalable link‑analysis and fuzzy‑matching workflows to deduplicate billions of records in Elasticsearch.",
+    "requirements": "R",
+    "responsibilities": "Design"
+  },
+  {
+    "title": "AI Developer for Meme‑Coin Trading Agents",
+    "description": "Build autonomous agents that exploit crypto‑market micro‑signals to trade meme coins profitably.",
+    "requirements": "R",
+    "responsibilities": "Build"
+  },
+  {
+    "title": "Full‑Time Data Engineer specializing in Databricks",
+    "description": "Develop ETL pipelines, optimize Delta Lake tables, and automate ML workflows in the Databricks platform.",
+    "requirements": "R, databricks",
+    "responsibilities": "Develop, Optimize"
+  },
+  {
+    "title": "Mobile app for Android & iOS (AI‑powered)",
+    "description": "Prototype a cross‑platform app with AI features and recommend architecture for future scaling.",
+    "requirements": "R",
+    "responsibilities": "Recommend"
+  },
+  {
+    "title": "AI Automation Expert for Meeting Summarization & SOW Creation",
+    "description": "Build an AI tool that transcribes meetings, highlights action items, and drafts statements of work automatically.",
+    "requirements": "R",
+    "responsibilities": "Build, Draft"
+  },
+  {
+    "title": "Python 3‑D Engineer – Virtual Try‑On Avatars",
+    "description": "Develop body‑shape estimation from measurements and render photorealistic clothing fit on 3‑D avatars.",
+    "requirements": "R",
+    "responsibilities": "Develop"
+  },
+  {
+    "title": "Blockchain‑AI Project Developer",
+    "description": "Join an Ethereum‑based project that blends smart contracts with AI‑driven insights.",
+    "requirements": "R",
+    "responsibilities": "N/A"
+  },
+  {
+    "title": "Expert AI Engineer (Chatbots, Voice, e‑Commerce)",
+    "description": "Design multi‑modal bots integrating voice assistants, LLMs, and e‑commerce APIs.",
+    "requirements": "Llm, R",
+    "responsibilities": "Design"
+  },
+  {
+    "title": "Web & Mobile Developer for AI‑Powered Legal Platform",
+    "description": "Implement a responsive web + mobile stack around an AI legal‑research engine.",
+    "requirements": "R",
+    "responsibilities": "Implement"
+  },
+  {
+    "title": "Expert Voice‑Cloning & Speech‑AI Engineer",
+    "description": "Train and fine‑tune open‑source voice models to produce realistic multilingual voice clones.",
+    "requirements": "R",
+    "responsibilities": "Fine‑tune, Train"
+  },
+  {
+    "title": "AI/ML Engineer for Background Removal & Outfit Suggestion",
+    "description": "Build segmentation + recommendation models to clean backgrounds and suggest outfits for e‑commerce images.",
+    "requirements": "R",
+    "responsibilities": "Build, Recommend"
+  },
+  {
+    "title": "AI LLM Training Expert for Chat‑Memory System",
+    "description": "Fine‑tune LLMs with long‑term memory modules and evaluate recall across dialogue sessions.",
+    "requirements": "Llm, R",
+    "responsibilities": "Fine‑tune"
+  },
+  {
+    "title": "AI Video Dubbing Freelancers",
+    "description": "Help FastDub AI create high‑quality multilingual video dubbing using TTS and auto‑sync techniques.",
+    "requirements": "R",
+    "responsibilities": "Create"
+  },
+  {
+    "title": "Experienced AI/ML Engineer for Medical‑AI Agent",
+    "description": "Develop a medical diagnostic agent leveraging GPT‑4‑style reasoning and FHIR data integration.",
+    "requirements": "R",
+    "responsibilities": "Develop"
+  },
+  {
+    "title": "LORA Training Expert – Dataset Prep & Model Creation",
+    "description": "Prepare custom datasets and train LoRA models for text‑to‑image generation.",
+    "requirements": "Lora, R",
+    "responsibilities": "Prepare, Train"
+  },
+  {
+    "title": "NLP Algorithm to Analyze Open‑Ended Survey Data",
+    "description": "Build an NLP classifier that tags free‑text survey responses and outputs frequency stats.",
+    "requirements": "Nlp, R",
+    "responsibilities": "Build"
+  },
+  {
+    "title": "AI/ML LinkedIn Ghost‑Writer",
+    "description": "Generate engaging ML‑themed LinkedIn posts that align with client’s voice and branding.",
+    "requirements": "R",
+    "responsibilities": "Generate"
+  },
+  {
+    "title": "Expert AI Trading Specialist for Crypto Automation",
+    "description": "Design, back‑test, and deploy AI‑driven trading bots with risk‑managed strategies.",
+    "requirements": "R",
+    "responsibilities": "Deploy, Design"
+  },
+  {
+    "title": "ML/AI Engineer for FinTech Intelligence Layer",
+    "description": "Integrate multiple data feeds and serve ML insights to a real‑time fintech dashboard.",
+    "requirements": "R",
+    "responsibilities": "Integrate"
+  },
+  {
+    "title": "AI LLM Model‑Training Specialist",
+    "description": "Train and evaluate custom LLMs, optimize hyper‑parameters, and document the pipeline.",
+    "requirements": "Llm, R",
+    "responsibilities": "Optimize, Train"
+  },
+  {
+    "title": "AI that ‘Watches Movies’ Q&A System",
+    "description": "Create a model that encodes full‑length films and answers arbitrary content questions.",
+    "requirements": "R",
+    "responsibilities": "Create"
+  },
+  {
+    "title": "Python Lane‑Detection Comparison Tool (CARLA + Video)",
+    "description": "Implement a framework to benchmark lane‑detection algorithms in CARLA simulations and dash‑cam footage.",
+    "requirements": "R, carla",
+    "responsibilities": "Implement"
+  },
+  {
+    "title": "Auto‑Tracking Camera (Computer‑Vision)",
+    "description": "Develop CV algorithms to auto‑track and zoom on moving subjects in long‑form videos.",
+    "requirements": "R",
+    "responsibilities": "Develop"
+  },
+  {
+    "title": "GA4 + Measurement Protocol Expert (Offline Attribution)",
+    "description": "Configure Measurement Protocol v2 to post offline conversions into GA4 and reconcile with ad spend.",
+    "requirements": "Ga4, R",
+    "responsibilities": "Configure"
+  },
+  {
+    "title": "Google Analytics & Tag Manager Specialist",
+    "description": "Audit GA4 + GTM, build Looker dashboards, and extract actionable insights for marketing leaders.",
+    "requirements": "Ga4, R, looker",
+    "responsibilities": "Audit, Build, Lead"
+  },
+  {
+    "title": "Mixpanel Analytics Expert for Data Analysis",
+    "description": "Review event taxonomy, create Mixpanel dashboards, and surface retention & funnel insights.",
+    "requirements": "R, mixpanel",
+    "responsibilities": "Create"
+  },
+  {
+    "title": "CRO Marketer for Fast‑Growing iGaming Group",
+    "description": "Run A/B tests, optimize landing pages, and drive conversion lifts across multiple casino brands.",
+    "requirements": "R",
+    "responsibilities": "Optimize, Run"
+  },
+  {
+    "title": "Marketing Data Analyst – RFM Segmentation",
+    "description": "Analyze purchase history, build Recency‑Frequency‑Monetary segments, and advise CRM tactics.",
+    "requirements": "R",
+    "responsibilities": "Advise, Analyze, Build"
+  },
+  {
+    "title": "Crypto Markets Analyst",
+    "description": "Provide daily market breakdowns, identify trade setups, and issue risk‑managed alerts.",
+    "requirements": "R",
+    "responsibilities": "Provide"
+  },
+  {
+    "title": "Financial Management – Corporate Performance Reporting",
+    "description": "Build dashboards and statistical models to track KPIs and forecast corporate performance.",
+    "requirements": "R",
+    "responsibilities": "Build"
+  },
+  {
+    "title": "Research Analytics Tools using Tableau & KNIME",
+    "description": "Develop interactive analytics tools combining Tableau visualizations with KNIME workflows.",
+    "requirements": "R, analytics, knime, tableau",
+    "responsibilities": "Develop"
+  },
+  {
+    "title": "Flutter App Update (Analytics‑Tagged)",
+    "description": "Update a live Flutter app, integrate Firebase & custom analytics events, and manage Play‑Store rollout.",
+    "requirements": "R, analytics, firebase, flutter",
+    "responsibilities": "Integrate, Update"
+  },
+  {
+    "title": "SimilarWeb Report Specialist",
+    "description": "Generate on‑demand domain traffic reports using SimilarWeb and summarize competitive metrics.",
+    "requirements": "R",
+    "responsibilities": "Generate"
+  }
+]
