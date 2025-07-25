@@ -2,3 +2,6 @@ streamlit
 wordcloud
 matplotlib
 nltk
+openai
+PyPDF2
+python-dotenv
